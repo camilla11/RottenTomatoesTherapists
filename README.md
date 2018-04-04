@@ -18,4 +18,5 @@ https://www.rottentomatoes.com/m/the_death_of_stalin
 
 
 Next step:
-link each name to a google search for "sexual assault allegations against <NAME>"
+1) Hook up to a dynamic repo
+2) Make Prettier
